@@ -1,0 +1,14 @@
+.navbar{
+    border: 3px solid white;
+    height: 25px;
+    width: 98%;
+    justify-content: space-evenly;
+    font-weight: bold;
+    gap: 10px;
+    display: flex;
+    padding: 1%;
+    font-size: 20px;
+    background-color: rgb(229, 233, 235);
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    position: static;
+}
